@@ -4,45 +4,6 @@ uefhyfgefkefgylafervte7iete
 uefhyfgefkefgylafervte7iete
 Update README.md
 cb3edf0
- · 
-2 days ago
-Localhost Scan_rq0rsa.html
-Add files via upload
-2 days ago
-Localhost_Vulnerability_Report_README.md
-Add files via upload
-2 days ago
-README.md
-Update README.md
-2 days ago
-Screenshot 2025-10-24 184009.png
-Add files via upload
-2 days ago
-Screenshot 2025-10-24 184049.png
-Add files via upload
-2 days ago
-Screenshot 2025-10-24 184605.png
-Add files via upload
-2 days ago
-Screenshot 2025-10-24 184752.png
-Add files via upload
-2 days ago
-Screenshot 2025-10-24 220901.png
-Add files via upload
-2 days ago
-Screenshot 2025-10-24 223108.png
-Add files via upload
-2 days ago
-Screenshot 2025-10-24 223951.png
-Add files via upload
-2 days ago
-Screenshot 2025-10-24 224009.png
-Add files via upload
-2 days ago
-Task3_VulnerabilityScan.zip🛡️ Localhost Vulnerability Scan Report
-Tool Used: Nessus Essentials / OpenVAS
-Target: Localhost (Your PC)
-
 🔍 Overall Vulnerability Summary
 Severity	Count
 🔴 Critical	0
